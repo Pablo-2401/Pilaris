@@ -1,1 +1,104 @@
+[
+  {
+    "name": "Parsobia",
+		"leaderName": "Parsus VIII",
+		"adjective": ["Parsobiano"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hola, gran líder.",
+		"startIntroPart2": "Bienvenido a Parsobia.",
+		
+		"declaringWar": "¡Pagarás tu ofensa contra nuestro pueblo!",
+		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
+		"defeated": "Has osado desafiar a la civilización más próspera del orbe. Ahora la oscuridad se cernirá sobre estas tierras.",
+		"introduction": "Encantado de conocerle, extraño.",
+		
+		"neutralHello": "Buenas tardes, amigo mío.",
+		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puedo ayudarle en algo?"],
+		"neutralNo": ["Me temo que vuestra oferta no cumple las necesidades de nuestro pueblo.","Siento tener que rechazar su propuesta.","Por el bien de mi Nación, debo rechazar esta oferta."],
+		"neutralYes": ["¡Trato hecho, amigo!","Usted sí que sabe cómo hacer negocios.","Un placer tratar con usted."],
 
+		"hateHello": "Debería darte vergüenza hablar con nosotros después de lo que has hecho.",
+		"hateLetsHearIt": ["¡Habla ahora o vete!","¿Osas venir aquí después de todo?","Que sea rápido."],
+		"hateNo": ["Inténtalo otro día.","No vamos a aceptar eso.","¡Ni en sueños!"],
+		"hateYes": ["Está bien, ahora vete.","Bien, aceptamos tu trato.","Trato hecho."],
+		
+		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
+		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
+
+		"outerColor": [212,172,13],
+		"innerColor": [242,243,244],
+		"uniqueName": "Vigías de las Dunas",
+		"uniques": ["[+1 Sight] for [All] units", "[+1 Food] from every [Desert]", "[+1 Production] from every [Desert]", "[+30]% Strength <within [1] tiles of a [Desert]>"]
+		"cities": ["Parasis","Fadimir","Caneat","Arbuinir","Querat","Meradias","Viraferenis","Gualaj","Celinir","Jalamit"]
+  },
+  {
+    "name": "Tehfarrhat",
+		"leaderName": "Deifijnihr",
+		"adjective": ["Tefarano"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hola, gran líder.",
+		"startIntroPart2": "Bienvenido a Tehfarrhat.",
+		
+		"declaringWar": "¡Pagarás tu ofensa contra nuestro pueblo!",
+		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
+		"defeated": "Has osado desafiar a la civilización más próspera del orbe. Ahora la oscuridad se cernirá sobre estas tierras.",
+		"introduction": "Encantado de conocerle, extraño.",
+		
+		"neutralHello": "Buenas tardes, amigo mío.",
+		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puedo ayudarle en algo?"],
+		"neutralNo": ["Me temo que vuestra oferta no cumple las necesidades de nuestro pueblo.","Siento tener que rechazar su propuesta.","Por el bien de mi Nación, debo rechazar esta oferta."],
+		"neutralYes": ["¡Trato hecho, amigo!","Usted sí que sabe cómo hacer negocios.","Un placer tratar con usted."],
+
+		"hateHello": "Debería darte vergüenza hablar con nosotros después de lo que has hecho.",
+		"hateLetsHearIt": ["¡Habla ahora o vete!","¿Osas venir aquí después de todo?","Que sea rápido."],
+		"hateNo": ["Inténtalo otro día.","No vamos a aceptar eso.","¡Ni en sueños!"],
+		"hateYes": ["Está bien, ahora vete.","Bien, aceptamos tu trato.","Trato hecho."],
+		
+		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
+		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
+
+		"outerColor": [212,172,13],
+		"innerColor": [242,243,244],
+		"uniqueName": "Guardianes Pétreos",
+		"uniques": ["Cannot build [Ranged] units", "[+2 Production] from every [Mountain]", "[-1 Sight] for [Warrior, Civilian] units", "[-1 Movement] for [Warrior, Civilian] units", "[+80]% Strength <within [1] tiles of a [Mountain]>"]
+		"cities": ["Parasis","Fadimir","Caneat","Arbuinir","Querat","Meradias","Viraferenis","Gualaj","Celinir","Jalamit"]
+  },
+  {
+    "name": "",
+		"leaderName": "",
+		"adjective": [""],
+		"startBias": [""],
+		"preferredVictoryType": "",
+		
+		"startIntroPart1": "Hola, gran líder.",
+		"startIntroPart2": "Bienvenido a .",
+		
+		"declaringWar": "¡Pagarás tu ofensa contra nuestro pueblo!",
+		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
+		"defeated": "Has osado desafiar a la civilización más próspera del orbe. Ahora la oscuridad se cernirá sobre estas tierras.",
+		"introduction": "Encantado de conocerle, extraño.",
+		
+		"neutralHello": "Buenas tardes, amigo mío.",
+		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puedo ayudarle en algo?"],
+		"neutralNo": ["Me temo que vuestra oferta no cumple las necesidades de nuestro pueblo.","Siento tener que rechazar su propuesta.","Por el bien de mi Nación, debo rechazar esta oferta."],
+		"neutralYes": ["¡Trato hecho, amigo!","Usted sí que sabe cómo hacer negocios.","Un placer tratar con usted."],
+
+		"hateHello": "Debería darte vergüenza hablar con nosotros después de lo que has hecho.",
+		"hateLetsHearIt": ["¡Habla ahora o vete!","¿Osas venir aquí después de todo?","Que sea rápido."],
+		"hateNo": ["Inténtalo otro día.","No vamos a aceptar eso.","¡Ni en sueños!"],
+		"hateYes": ["Está bien, ahora vete.","Bien, aceptamos tu trato.","Trato hecho."],
+		
+		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
+		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
+
+		"outerColor": [212,172,13],
+		"innerColor": [242,243,244],
+		"uniqueName": "",
+		"uniques": ["[+1 Sight] for [All] units", "[+1 Food] from every [Desert]", "[+30]% Strength <within [1] tiles of a [Desert]>"]
+		"cities": ["Parasis","Fadimir","Caneat","Arbuinir","Querat","Meradias","Viraferenis","Gualaj","Celinir","Jalamit"]
+  },
+    ]
