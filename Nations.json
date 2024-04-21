@@ -61,21 +61,21 @@
 		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
 		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
 
-		"outerColor": [212,172,13],
-		"innerColor": [242,243,244],
+		"outerColor": [211,84,0],
+		"innerColor": [62,39,35],
 		"uniqueName": "Guardianes Pétreos",
-		"uniques": ["Cannot build [Ranged] units", "[+2 Production] from every [Mountain]", "[-1 Sight] for [Warrior, Civilian] units", "[-1 Movement] for [Warrior, Civilian] units", "[+80]% Strength <within [1] tiles of a [Mountain]>"]
+		"uniques": ["Cannot build [Ranged] units", "[+2 Production] from every [Mountain]", "[-1 Sight] for [Sword, Civilian] units", "[-1 Movement] for [Sword, Civilian] units", "[+80]% Strength <within [1] tiles of a [Mountain]>", "Starts with [Mining]"]
 		"cities": ["Parasis","Fadimir","Caneat","Arbuinir","Querat","Meradias","Viraferenis","Gualaj","Celinir","Jalamit"]
   },
   {
-    "name": "",
-		"leaderName": "",
-		"adjective": [""],
-		"startBias": [""],
-		"preferredVictoryType": "",
+    "name": "Silaria",
+		"leaderName": "Nalah",
+		"adjective": ["Silarino"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Hola, gran líder.",
-		"startIntroPart2": "Bienvenido a .",
+		"startIntroPart2": "Bienvenida a Silaria.",
 		
 		"declaringWar": "¡Pagarás tu ofensa contra nuestro pueblo!",
 		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
@@ -95,10 +95,10 @@
 		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
 		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
 
-		"outerColor": [212,172,13],
-		"innerColor": [242,243,244],
-		"uniqueName": "",
-		"uniques": ["[+1 Sight] for [All] units", "[+1 Food] from every [Desert]", "[+30]% Strength <within [1] tiles of a [Desert]>"]
-		"cities": ["Parasis","Fadimir","Caneat","Arbuinir","Querat","Meradias","Viraferenis","Gualaj","Celinir","Jalamit"]
+		"outerColor": [46,204,113],
+		"innerColor": [195,155,211],
+		"uniqueName": "Cultura del Arquero",
+		"uniques": ["Cannot build [Sword] units", "Starts with [Archery]", "[+2 Sight] for [Archery] units", "[+2 Culture] in [all cities]", "[+1 Culture] for every [Strategic resource]"]
+		"cities": ["Silaria","Vinoa","Ciudad Silas","Avinis","","Villasilia","Ovidis","Nalisid","Auvelia","Pulitia"]
   },
     ]
