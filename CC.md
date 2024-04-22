@@ -4,3 +4,4 @@ Mountain by Kim Sun Young from <a href="https://thenounproject.com/browse/icons/
 
 bow by Andi Nur Abdillah from <a href="https://thenounproject.com/browse/icons/term/bow/" target="_blank" title="bow Icons">Noun Project</a> (CC BY 3.0)
 
+dune by Tanmay Goswami from <a href="https://thenounproject.com/browse/icons/term/dune/" target="_blank" title="dune Icons">Noun Project</a> (CC BY 3.0)
