@@ -234,7 +234,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [9,114,148],
 		"uniqueName": "Sigilo blanco",
-		"uniques": ["Cannot build [Water] units", "[+2 Sight, Movement] for [Land] units", "[Land] units gain [March]", [+2 Food] for every [Snow]"]
+		"uniques": ["Cannot build [Water] units", "[+2 Sight, Movement] for [Land] units", "[Land] units gain [March]", "[+2 Food, Production] for every [Snow]"]
 		"cities": ["Himala","Bosconia","Invernia","Foria","Lantia","Filan","Hiel","Selam","Hemib","Iniut"]
 	},
 	{
