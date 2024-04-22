@@ -202,7 +202,7 @@
 		"uniqueName": "Escoltas de los Mares",
 		"uniques": ["Starts with [Sailing, Optics, Compass, Astronomy, Navigation]", "[+2 Sight, Movement] for [Water] units", "[+1 Production] for every [Coast]"
 		"cities": ["Navia","Caduerno","Portia","Nueva Navia","Isolia","Acuria","Walia","Lusia","Lorusis","Portis"]
-	},
+			},
 	{
 	"name": "Los Hiemales",
 		"leaderName": "Hibernus",
