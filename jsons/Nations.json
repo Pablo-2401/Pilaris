@@ -268,7 +268,7 @@
 		"outerColor": [45,16,123],
 		"innerColor": [255,255,255],
 		"uniqueName": "Centinelas Forestales",
-		"uniques": ["[+2 Sight, Movement] for [All] units <within [2] tiles of a [Forest]>", "Cannot build [Settler] units", "Starts with [Construction, Engineering, The Wheel]", "[Land] units can build [Fort, Road]" [+2 Food] for every [Lumber Mill]"]
+		"uniques": ["[+2 Sight, Movement] for [All] units <within [2] tiles of a [Forest]>", "Cannot build [Settler] units", "Starts with [Construction, Engineering, The Wheel]", "[Land] units can build [Fort, Road]", "[+2 Food] for every [Lumber Mill]"]
 		"cities": ["","Lorusis","Portis"]
 		}
 ]
