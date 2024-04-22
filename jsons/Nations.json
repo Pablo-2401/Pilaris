@@ -37,7 +37,7 @@
     "name": "Tehfarrhat",
 		"leaderName": "Deifijnihr",
 		"adjective": ["Tefarano"],
-		"startBias": ["Mountain"],
+		"startBias": ["Mountain", "Hill"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Hola, gran líder.",
@@ -65,16 +65,16 @@
 		"innerColor": [62,39,35],
 		"uniqueName": "Guardianes Pétreos",
 		"uniques": ["Cannot build [Ranged] units", "[+2 Production] from every [Mountain]", "[-1 Sight] for [Sword, Civilian] units", "[-1 Movement] for [Sword, Civilian] units", "[+80]% Strength <within [1] tiles of a [Mountain]>", "Starts with [Mining]"]
-		"cities": ["Parasis","Fadimir","Caneat","Arbuinir","Querat","Meradias","Viraferenis","Gualaj","Celinir","Jalamit"]
+		"cities": ["Terratia","Gran Caldera","El Hoyo","La Cantera","Altas Minas", "Bajas Minas", "Cueva Primera","Cueva Segunda","Cueva Tercera","Cueva Cuarta"]
   },
   {
     "name": "Silaria",
 		"leaderName": "Nalah",
 		"adjective": ["Silarino"],
-		"startBias": ["Grassland"],
+		"startBias": ["Grassland", "Forest"],
 		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "Hola, gran líder.",
+		"startIntroPart1": "Hola, gran lideresa.",
 		"startIntroPart2": "Bienvenida a Silaria.",
 		
 		"declaringWar": "¡Pagarás tu ofensa contra nuestro pueblo!",
@@ -99,6 +99,142 @@
 		"innerColor": [195,155,211],
 		"uniqueName": "Cultura del Arquero",
 		"uniques": ["Cannot build [Sword] units", "Starts with [Archery]", "[+2 Sight] for [Archery] units", "[+2 Culture] in [all cities]", "[+1 Culture] for every [Strategic resource]"]
-		"cities": ["Silaria","Vinoa","Ciudad Silas","Avinis","","Villasilia","Ovidis","Nalisid","Auvelia","Pulitia"]
+		"cities": ["Silaria","Vinoa","Ciudad Silas","Avinis","Villasilia","Ovidis","Nalisid","Auvelia","Pulitia", "Valdesil"]
   },
-    ]
+	{
+    "name": "Verlidia",
+		"leaderName": "Trint II",
+		"adjective": ["Verlidiano"],
+		"startBias": ["Grassland", "River"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hola, gran líder.",
+		"startIntroPart2": "Bienvenido a Verlidia.",
+		
+		"declaringWar": "¡Pagarás tu ofensa contra nuestro pueblo!",
+		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
+		"defeated": "Has osado desafiar a la civilización más próspera del orbe. Ahora la oscuridad se cernirá sobre estas tierras.",
+		"introduction": "Encantado de conocerle, extraño.",
+		
+		"neutralHello": "Buenas tardes, amigo mío.",
+		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puedo ayudarle en algo?"],
+		"neutralNo": ["Me temo que vuestra oferta no cumple las necesidades de nuestro pueblo.","Siento tener que rechazar su propuesta.","Por el bien de mi Nación, debo rechazar esta oferta."],
+		"neutralYes": ["¡Trato hecho, amigo!","Usted sí que sabe cómo hacer negocios.","Un placer tratar con usted."],
+
+		"hateHello": "Debería darte vergüenza hablar con nosotros después de lo que has hecho.",
+		"hateLetsHearIt": ["¡Habla ahora o vete!","¿Osas venir aquí después de todo?","Que sea rápido."],
+		"hateNo": ["Inténtalo otro día.","No vamos a aceptar eso.","¡Ni en sueños!"],
+		"hateYes": ["Está bien, ahora vete.","Bien, aceptamos tu trato.","Trato hecho."],
+		
+		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
+		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
+
+		"outerColor": [145,255,61],
+		"innerColor": [103,193,222],
+		"uniqueName": "Hegemonía Alimenticia",
+		"uniques": ["[+1 Food, +1 Production] from [Farm] tiles [in this city] <with [1] to [6] neighboring [Farm] tiles>", "Starts with [Agriculture]"]
+		"cities": ["Magna Veritas", "Avinis","","Villasilia","Ovidis","Nalisid","Auvelia","Pulitia"]
+	},
+	{
+    "name": "Abrazia",
+		"leaderName": "Zalas",
+		"adjective": ["Abrazino"],
+		"startBias": ["Plains", "Hill"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Hola, gran lideresa.",
+		"startIntroPart2": "Bienvenida a Abrazia.",
+		
+		"declaringWar": "¡Pagarás tu ofensa contra nuestro pueblo!",
+		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
+		"defeated": "Has osado desafiar a la civilización más próspera del orbe. Ahora la oscuridad se cernirá sobre estas tierras.",
+		"introduction": "Encantado de conocerle, extraño.",
+		
+		"neutralHello": "Buenas tardes, amigo mío.",
+		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puedo ayudarle en algo?"],
+		"neutralNo": ["Me temo que vuestra oferta no cumple las necesidades de nuestro pueblo.","Siento tener que rechazar su propuesta.","Por el bien de mi Nación, debo rechazar esta oferta."],
+		"neutralYes": ["¡Trato hecho, amigo!","Usted sí que sabe cómo hacer negocios.","Un placer tratar con usted."],
+
+		"hateHello": "Debería darte vergüenza hablar con nosotros después de lo que has hecho.",
+		"hateLetsHearIt": ["¡Habla ahora o vete!","¿Osas venir aquí después de todo?","Que sea rápido."],
+		"hateNo": ["Inténtalo otro día.","No vamos a aceptar eso.","¡Ni en sueños!"],
+		"hateYes": ["Está bien, ahora vete.","Bien, aceptamos tu trato.","Trato hecho."],
+		
+		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
+		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
+
+		"outerColor": [255,187,0],
+		"innerColor": [124,71,0],
+		"uniqueName": "Falsas Zalamerías",
+		"uniques": ["[+1 Gold] from every [Strategic resource]", "[-50]% Gold cost of acquiring tiles [in all cities]", "[-50]% Unhappiness from [Population] [in all cities]", "[+3 Gold] [in all cities]", "[+100]% Golden Age length"]
+		"cities": ["Abrazia","Zalasia","Abrim","Helat","Ubria","Ascet","Zanis","Alas","Helatina","Bou"]
+	},
+	{
+	"name": "Navalia",
+		"leaderName": "Candealezo",
+		"adjective": ["Navalio"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hola, gran líder.",
+		"startIntroPart2": "Bienvenido a Navalia.",
+		
+		"declaringWar": "¡Pagarás tu ofensa contra nuestro pueblo!",
+		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
+		"defeated": "Has osado desafiar a la civilización más próspera del orbe. Ahora la oscuridad se cernirá sobre estas tierras.",
+		"introduction": "Encantado de conocerle, extraño.",
+		
+		"neutralHello": "Buenas tardes, amigo mío.",
+		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puedo ayudarle en algo?"],
+		"neutralNo": ["Me temo que vuestra oferta no cumple las necesidades de nuestro pueblo.","Siento tener que rechazar su propuesta.","Por el bien de mi Nación, debo rechazar esta oferta."],
+		"neutralYes": ["¡Trato hecho, amigo!","Usted sí que sabe cómo hacer negocios.","Un placer tratar con usted."],
+
+		"hateHello": "Debería darte vergüenza hablar con nosotros después de lo que has hecho.",
+		"hateLetsHearIt": ["¡Habla ahora o vete!","¿Osas venir aquí después de todo?","Que sea rápido."],
+		"hateNo": ["Inténtalo otro día.","No vamos a aceptar eso.","¡Ni en sueños!"],
+		"hateYes": ["Está bien, ahora vete.","Bien, aceptamos tu trato.","Trato hecho."],
+		
+		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
+		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
+
+		"outerColor": [30,59,197],
+		"innerColor": [255,249,61],
+		"uniqueName": "Escoltas de los Mares",
+		"uniques": ["Starts with [Navigation]", "[+2 Sight, Movement] for [Water] units", "[+1 Production] for every [Coast]"
+		"cities": ["Navia","Caduerno","Portia","Nueva Navia","Isolia","Acuria","Walia","Lusia","Lorusis","Portis"]
+	},
+	{
+	"name": "Navalia",
+		"leaderName": "Candealezo",
+		"adjective": ["Navalio"],
+		"startBias": ["Snow", "Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hola, gran líder.",
+		"startIntroPart2": "Bienvenido a Navalia.",
+		
+		"declaringWar": "¡Pagarás tu ofensa contra nuestro pueblo!",
+		"attacked": "Te has buscado tu propio destino, ahora perecerás.",
+		"defeated": "Has osado desafiar a la civilización más próspera del orbe. Ahora la oscuridad se cernirá sobre estas tierras.",
+		"introduction": "Encantado de conocerle, extraño.",
+		
+		"neutralHello": "Buenas tardes, amigo mío.",
+		"neutralLetsHearIt": ["¿Quiere algo?","¿Hay algo que desee?","¿Puedo ayudarle en algo?"],
+		"neutralNo": ["Me temo que vuestra oferta no cumple las necesidades de nuestro pueblo.","Siento tener que rechazar su propuesta.","Por el bien de mi Nación, debo rechazar esta oferta."],
+		"neutralYes": ["¡Trato hecho, amigo!","Usted sí que sabe cómo hacer negocios.","Un placer tratar con usted."],
+
+		"hateHello": "Debería darte vergüenza hablar con nosotros después de lo que has hecho.",
+		"hateLetsHearIt": ["¡Habla ahora o vete!","¿Osas venir aquí después de todo?","Que sea rápido."],
+		"hateNo": ["Inténtalo otro día.","No vamos a aceptar eso.","¡Ni en sueños!"],
+		"hateYes": ["Está bien, ahora vete.","Bien, aceptamos tu trato.","Trato hecho."],
+		
+		"afterPeace": "Me alegro de que podamos entendernos de nuevo.",
+		"tradeRequest": "Espero que puedas aceptar nuestra propuesta.",
+
+		"outerColor": [30,59,197],
+		"innerColor": [255,249,61],
+		"uniqueName": "Escoltas de los Mares",
+		"uniques": ["Starts with [Navigation]", "[+2 Sight, Movement] for [Water] units", "[+1 Production] for every [Coast]"
+		"cities": ["Navia","Caduerno","Portia","Nueva Navia","Isolia","Acuria","Walia","Lusia","Lorusis","Portis"]
+	},
+]
